@@ -1,0 +1,12 @@
+ansible
+  e2-medium
+  us-central1-a
+  i27-ecommerce-central-subnet
+jenkins-master
+  e2-medium
+  us-east4-a
+  i27-ecommerce-east-subnet
+jenkins-slave
+  n1-standard-4
+  us-east4-a
+  i27-ecommerce-east-subnet
